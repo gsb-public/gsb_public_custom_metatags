@@ -1,0 +1,5 @@
+name = GSB Public Custom Metatags
+description = "Creates our GSB Public Custom Metatags."
+package = GSB
+core = 7.x
+dependencies[] = metatag
